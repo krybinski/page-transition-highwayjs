@@ -1,6 +1,6 @@
 # Page Transition with Highway.js
 
-Demo: https://friendly-raman-3dcbbb.netlify.app/
+Demo: https://page-transitions-highway.netlify.app/
 
 ## Requirements
 
